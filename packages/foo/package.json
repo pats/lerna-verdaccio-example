@@ -8,5 +8,6 @@
   "scripts": {},
   "dependencies": {
     "nock": "^10.0.0"
-  }
+  },
+  "gitHead": "4ba77e371844735d34f7436ef28ec20068c66ca4"
 }
